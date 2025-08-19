@@ -21,6 +21,4 @@ urlpatterns = [
     path('admin/', admin.site.urls),
 ]
 
-# git remote add origin https://github.com/muhammadshahmirzaman/Django_research_assistant.git
-
 
